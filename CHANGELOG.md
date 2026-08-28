@@ -1,5 +1,14 @@
 # Change Log
 
+# UNRELEASED
+
+### Added
+
+- Added `debouncedChecked` prop to `Tree` component #742 by @AnnMarieW
+
+### Fixed
+- Fixed  `preset` type in datepicker components #740 by @AnnMarieW
+
 # 2.8.0
 
 ### Added
